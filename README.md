@@ -24,6 +24,9 @@ I work on the spatial data team at a stealth startup, and I'm adding more recent
 ### [Fortune's Fast Food](https://github.com/EmileeZ5/FortunesFastFood)
 A burger-shop management game in **Java (Swing)**, built with a classmate, Nevetha Arullinkam. Take orders, cook patties, build burgers with a timing minigame, pour drinks, and buy upgrades to get promoted. All code written by us and all artwork hand-drawn.
 
+### [2 Player Pong](https://github.com/EmileeZ5/Pong)
+A two-player Pong game in **Java (Swing)** with a start menu, live scoring to 5, a winner screen, and music and sound effects.
+
 *More recent projects coming soon.*
 
 ## Education and awards
