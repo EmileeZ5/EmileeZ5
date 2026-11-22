@@ -9,7 +9,7 @@ I work on the spatial data team at a stealth startup, and I'm adding more recent
 *June 2026 to present*
 
 - Quality-check captured footage and its associated data, reviewing it minute by minute to catch quality issues and annotation inconsistencies.
-- Have verified **700+ hours** of footage, the highest total volume among reviewers.
+- Have verified **700+ hours** of footage, the highest total volume among 87 total reviewers.
 - Compile daily quality reports covering 40 to 90+ hours of footage across three data vendors.
 - Monitor team progress and coordinate with reviewers and vendors so weekly delivery deadlines are met.
 - Identify recurring quality issues and give vendors targeted, operator-specific feedback.
