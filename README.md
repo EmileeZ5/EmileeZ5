@@ -5,7 +5,7 @@ I work on the spatial data team at a stealth startup, and I'm adding more recent
 
 ## Experience
 
-### Spatial Data Team Member, Stealth Startup (Toronto, ON)
+### Spatial Data Team, Stealth Startup (Toronto, ON)
 *June 2026 to present*
 
 - Quality-check captured footage and its associated data, reviewing it minute by minute to catch quality issues and annotation inconsistencies.
