@@ -36,7 +36,3 @@ A two-player Pong game in **Java (Swing)** with a start menu, live scoring to 5,
 - Selected for the Lloyd Auckland Invitational Mathematics Workshop and invited to the University of Ottawa CMS Math Camp
 - AP Scholar with Honor/Distinction (2024, 2025)
 
-## Get in touch
-- [LinkedIn](https://linkedin.com/in/emilee-zhang)
-- Email: emileezhang@hotmail.com
-- Phone: (437) 775-9097
